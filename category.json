@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "https://i.ibb.co/TPCnMxq/chip-1.png",
+    "name": "Software Engineer",
+    "jobs_available": 50
+  },
+  {
+    "logo": "https://i.ibb.co/JrtDvq9/social-media-1.png",
+    "name": "Data Analyst",
+    "jobs_available": 25
+  },
+  {
+    "logo": "https://i.ibb.co/6bTXwrb/business-1.png",
+    "name": "Web Developer",
+    "jobs_available": 35
+  },
+  {
+    "logo": "https://i.ibb.co/jr0c9Kr/accounts-1.png",
+    "name": "IT Support",
+    "jobs_available": 20
+  }
+]
